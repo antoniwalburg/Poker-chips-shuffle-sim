@@ -1,7 +1,9 @@
 import matplotlib.pyplot as plt
-
+# t = input / number of chips to shuffle
+# ex. t = 1000 -> it's gonna shuffle 4,6,8 ... t chips   
+t = 1000
 x = []
-for i in range(4, 1001, 2):
+for i in range(4, t+1, 2):
     x.append(i)
 
 stack = []
