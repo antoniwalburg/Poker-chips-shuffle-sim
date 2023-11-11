@@ -1,0 +1,2 @@
+Proof that there can't be an n: number of chips that f(n): shuffle function will return f(n)**-1: reverse origin chips state
+Ex. f(n) = ([1,1,1,0,0,0] <=> f(n)**-1 = [0,0,0,1,1,1]) = 0 
